@@ -9,8 +9,8 @@ A modern, responsive portfolio website showcasing my frontend development skills
 **[View Live Portfolio](https://satyam2699.github.io/my-portfolio/)**
 
 ## preview
-### Home Page preview
-![Home Page](./public/screenshots/home.png)
+### Home Page light preview
+![Home Page](https://github.com/Satyam2699/my-portfolio/blob/83b330920521ad146000cc7d3ae00fc271278df3/public/light-mode_desktop_home.JPG)
 
 ### Projects Section
 ![Projects Section](./public/screenshots/projects.png)
