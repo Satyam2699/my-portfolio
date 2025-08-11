@@ -79,12 +79,13 @@ A modern, responsive portfolio website showcasing my frontend development skills
 
 1. **Clone the repository:**
    git clone https://github.com/Satyam2699/my-portfolio.git
+   
    cd portfolio-name
 
-2. **Install dependencies:**
+3. **Install dependencies:**
 npm install
 
-3. **Start development server:**
+4. **Start development server:**
 npm run dev
 
 
@@ -170,7 +171,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-**Your Name**  
+**Satyam vishwakarma**  
 Frontend Developer
 
 - **Email**: stymvih88@gmail.com
