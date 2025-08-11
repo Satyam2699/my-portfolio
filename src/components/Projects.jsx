@@ -9,7 +9,7 @@ import {
   FaHtml5,
   FaCss3Alt,
 } from "react-icons/fa";
-import { SiTailwindcss, SiTypescript, SiVite } from "react-icons/si";
+import { SiTailwindcss, SiTypescript, SiVite,SiGreensock } from "react-icons/si";
 
 const Projects = () => {
   const frontendProjects = [
@@ -32,11 +32,9 @@ const Projects = () => {
       description:
         "A pixel-perfect clone of the Refokus website built with React and Tailwind CSS, replicating its sleek modern design, smooth animations, and interactive elements. The project showcases advanced frontend techniques, responsive layouts, and visually engaging UI/UX.",
       image: refokusimg,
-      technologies: ["React", "javascript", "CSS3", "tailwind", "gsap"],
+      technologies: ["React", "JavaScript", "CSS3", "Tailwind CSS", "Greensock"],
       features: [
-
         "Smooth scroll-based animations",
-
         "Modern, minimal UI components",
         "Smooth transitions",
       ],
@@ -48,6 +46,7 @@ const Projects = () => {
   const techIcons = {
     React: <FaReact className="text-blue-500" />,
     JavaScript: <FaJs className="text-yellow-500" />,
+    Greensock:<SiGreensock className="text-green-500"/>,
     TypeScript: <SiTypescript className="text-blue-600" />,
     HTML5: <FaHtml5 className="text-orange-500" />,
     CSS3: <FaCss3Alt className="text-blue-400" />,
