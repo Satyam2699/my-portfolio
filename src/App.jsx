@@ -36,7 +36,7 @@ const App = () => {
   };
 
   return (
-    <Router>
+    <Router basename="/my-portfolio">
       <div className="min-h-screen bg-white dark:bg-gray-900 text-gray-900 dark:text-white transition-colors duration-300">
         <Header darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
         <main>
