@@ -34,12 +34,11 @@ const Projects = () => {
       image: refokusimg,
       technologies: ["React", "javascript", "CSS3", "tailwind", "gsap"],
       features: [
-        "Responsive, mobile-first design",
 
         "Smooth scroll-based animations",
 
         "Modern, minimal UI components",
-        "Smooth page transitions",
+        "Smooth transitions",
       ],
       github: "https://github.com/Satyam2699/refokus",
       demo: "https://satyam2699.github.io/refokus/",
